@@ -1,0 +1,9 @@
+.split { 
+    float:left;
+    width:33.33%;
+    height: 33.33%;
+ }
+
+ p{
+     margin: 10px;
+ }
